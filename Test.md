@@ -1,0 +1,1 @@
+This is for YOLO badge ,My understanding is that somebody needs to be assigned as a reviewer to the PR (top right on desktop) and the PR then be merged without that person (or anybody else) doing a review.
